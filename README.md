@@ -5,3 +5,5 @@ Starter / example development environment for a project containing a Java and Py
 
 Created for the purpose of [this
 article](https://medium.com/@Empanado/efficient-development-with-docker-and-docker-compose-e354b4d24831). Have a look if you would like to learn more.
+
+hendy
